@@ -11,7 +11,7 @@ After 16 days of learning the organisers comes up with the project ideal to anal
 The data was scape in jupterBook and converted to csv file, the csv file is availabe at [Here](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/tree/main/Twitter%20Data%20Web%20Scrape)
 
 # Problem Statement
-After much familairty with  this data then this Queations comes up to my mind
+After much familairty with  this data then this Questions comes up to my mind
 
 1. Who are the most active users of this HashTag?
 2. Which part of the country are student enrolled most?
