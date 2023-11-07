@@ -34,7 +34,7 @@ This data was cleaned and transfomed in Power Queary Editor of power Query as th
 5. Lastly student are having issues or more engaged with this tools namely GitHub, Power BI, Excel and Azure
 
 # Recommendation
-The Organisers should try and engaged student to talk about this onngoing event on social so that student can be 
-more aware of it because the number of student enrolled to this programmed ir relativedly low to the number of university student
+The Organisers should try and engaged student to talk about this ongoing event on social so that student can be 
+more aware of it because the number of student enrolled to this programmed is relativedly low to the number of university student
 
 ![DashBoard](https://github.com/adeniyi1379/Tweet-Analysis/blob/main/Tweet%20Dashbaord.PNG)
